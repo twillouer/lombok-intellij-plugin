@@ -12,7 +12,7 @@ import de.plushnikov.intellij.lombok.psi.LombokLightMethodBuilder;
 import de.plushnikov.intellij.lombok.psi.LombokPsiElementFactory;
 import de.plushnikov.intellij.lombok.util.PsiClassUtil;
 import de.plushnikov.intellij.lombok.util.PsiMethodUtil;
-import lombok.Builder;
+import lombok.experimental.Builder;
 import lombok.Singleton;
 import org.jetbrains.annotations.NotNull;
 
